@@ -9,6 +9,7 @@ Suportado pela versão Python 3.
 [![Build Status](https://travis-ci.com/ajesus92/libpythonpro.svg?branch=main)](https://travis-ci.com/ajesus92/libpythonpro)
 [![Updates](https://pyup.io/repos/github/ajesus92/libpythonpro/shield.svg)](https://pyup.io/repos/github/ajesus92/libpythonpro/)
 [![Python 3](https://pyup.io/repos/github/ajesus92/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/ajesus92/libpythonpro/)
+[![codecov](https://codecov.io/gh/ajesus92/libpythonpro/branch/main/graph/badge.svg?token=T6UXMBFE5N)](https://codecov.io/gh/ajesus92/libpythonpro)
 
 Para instalar:
 ```console
